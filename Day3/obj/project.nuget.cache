@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q5RURl231+VBeSofcJBDurz0s94FW1VOeiY+FxZj9VGpETLZ2DoT1KOXRWQvDeFuWGe7/Ch76uu3sopHN4r35g==",
+  "dgSpecHash": "YH19dLYqeh6YEjhr2R7JWDpx58wBakbp17ElDyj1NNp1aQ6aqf7TAJ3mi+c9CmtTORnktb3jWTO2ZRXkvk6kqQ==",
   "success": true,
-  "projectFilePath": "/home/josh/Documents/AdventofCode-2021/Day3/Day3.csproj",
+  "projectFilePath": "C:\\Users\\joahg\\Documents\\GitHub\\AdventofCode-2021\\Day3\\Day3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

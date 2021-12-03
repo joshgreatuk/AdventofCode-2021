@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/josh/.nuget/packages/": {}
+    "C:\\Users\\joahg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/josh/Documents/AdventofCode-2021/Day3/Day3.csproj",
+      "projectUniqueName": "C:\\Users\\joahg\\Documents\\GitHub\\AdventofCode-2021\\Day3\\Day3.csproj",
       "projectName": "Day3",
-      "projectPath": "/home/josh/Documents/AdventofCode-2021/Day3/Day3.csproj",
-      "packagesPath": "/home/josh/.nuget/packages/",
-      "outputPath": "/home/josh/Documents/AdventofCode-2021/Day3/obj/",
+      "projectPath": "C:\\Users\\joahg\\Documents\\GitHub\\AdventofCode-2021\\Day3\\Day3.csproj",
+      "packagesPath": "C:\\Users\\joahg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joahg\\Documents\\GitHub\\AdventofCode-2021\\Day3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/josh/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\joahg\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
