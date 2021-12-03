@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5xG+aaUidfnRK8Ngnd/K9mdX+MUh4YDbWayb1DmDffmm+c9hFrQb/NYvaVuuDGNNYMeIpQEM7jBVeGhUw08qvw==",
+  "dgSpecHash": "8h3JtnhuoEg3+L0pHQFO9l05nhTzl4SCAPQ6SyMiSt0wuKew1QBoqIYyzBxVJa6bKsWdXcWuXUlAqIFjnCehEQ==",
   "success": true,
-  "projectFilePath": "A:\\Documents\\AdventofCode-2021\\Day2\\Day2.csproj",
+  "projectFilePath": "/home/josh/Documents/AdventofCode-2021/Day2/Day2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

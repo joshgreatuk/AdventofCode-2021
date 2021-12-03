@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/josh/Documents/AdventofCode-2021/Day2/Day2.csproj",
-      "projectName": "Day2",
-      "projectPath": "/home/josh/Documents/AdventofCode-2021/Day2/Day2.csproj",
+      "projectUniqueName": "/home/josh/Documents/AdventofCode-2021/Day3/Day3.csproj",
+      "projectName": "Day3",
+      "projectPath": "/home/josh/Documents/AdventofCode-2021/Day3/Day3.csproj",
       "packagesPath": "/home/josh/.nuget/packages/",
-      "outputPath": "/home/josh/Documents/AdventofCode-2021/Day2/obj/",
+      "outputPath": "/home/josh/Documents/AdventofCode-2021/Day3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/josh/.nuget/NuGet/NuGet.Config"
